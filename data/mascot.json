@@ -1,0 +1,40 @@
+[
+    {
+        "search": "キャラA",
+        "name": "charaA",
+        "full": "キャラクターA",
+        "team": "チームA",
+        "url": "https://yahoo.co.jp/",
+        "schedule": "",
+        "blog": "",
+        "Twitter": "",
+        "Instagram": "",
+        "debut": "2022",
+        "no": "1"
+    },
+    {
+        "search": "キャラB",
+        "name": "charaB",
+        "full": "キャラクターB",
+        "team": "チームB",
+        "url": "https://yahoo.co.jp/",
+        "schedule": "",
+        "blog": "",
+        "Twitter": "",
+        "Instagram": "",
+        "debut": "2022",
+        "no": "1"
+    },    {
+        "search": "キャラC",
+        "name": "charaC",
+        "full": "キャラクターC",
+        "team": "チームC",
+        "url": "https://yahoo.co.jp/",
+        "schedule": "",
+        "blog": "",
+        "Twitter": "",
+        "Instagram": "",
+        "debut": "2022",
+        "no": "1"
+    }
+]
