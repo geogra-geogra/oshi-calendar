@@ -30,7 +30,19 @@
 
 推しのプロフィールページは、profile/name.html の形で、サンプルのようなファイルを作れば、あとは data/oshi.json の内容に応じて表示されます。
 
+**data/oshi.json**
+
+推しの簡単なプロフィールをまとめるjsonです。
+
+**data/schedule.json**
+
+推しのスケジュールをまとめるjsonです。
+
+
+
 ## データの作り方
+
+各種htmlファイルを編集し、jsonファイルを2つ作成することで利用できます。
 
 1. マスコット自体の情報を data/oshi.json に入力する。
 2. 各種 html ファイルを編集する。(index,profile,schedule,aboutus とキャラクター別のページ)
@@ -98,7 +110,7 @@ url2：URL を入力してください。先に url1 に入れてください。
 
 img ディレクトリに、oshi.json の"name"と同じ名前の name.jpg を入れておくことで、各キャラクターのプロフィールページに画像が表示できます。
 
-### ライセンス
+## ライセンス
 
 Copyright (c) 2023 geogra-geogra
 
