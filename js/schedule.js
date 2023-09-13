@@ -1,4 +1,4 @@
-import { updateScheduleCommon } from './schedule-detail.js?20230912';
+import { updateScheduleCommon } from './schedule-detail.js';
 
 function yearMonthFilterCallback(year, month) {
     return (eventDate) => {
