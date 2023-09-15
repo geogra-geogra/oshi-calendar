@@ -1,0 +1,14 @@
+{
+  "name": "oshinosuke",
+  "version": "1.0.0",
+  "description": "推しのスケジュールを管理できる推し乃介です。",
+  "main": "today.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
